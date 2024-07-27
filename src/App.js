@@ -1,24 +1,22 @@
-import logo from './logo.svg';
+import React, { Suspense, lazy } from 'react';
+import images from './Images';
 import './App.css';
+
+const Card = lazy(() => import('./Card'));
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <h1>25 ReactJs Inteview Questions</h1>
+      <div className="App">
+        
+        <Suspense fallback={<div>Loading cards...</div>}>
+          {images.map((item) => (
+            <Card key={item.id} item={item} />
+          ))}
+        </Suspense>
+      </div>
+    </>
   );
 }
 
