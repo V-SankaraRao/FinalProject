@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/FinalProject/static/css/main.d40554ba.css",
+    "main.js": "/FinalProject/static/js/main.d94ad75b.js",
+    "static/js/672.61c73d32.chunk.js": "/FinalProject/static/js/672.61c73d32.chunk.js",
+    "static/js/453.39256dc9.chunk.js": "/FinalProject/static/js/453.39256dc9.chunk.js",
+    "static/media/21)Food Recipe.png": "/FinalProject/static/media/21)Food Recipe.ac270925e8eb7bea3533.png",
+    "static/media/4)LoadMore data.png": "/FinalProject/static/media/4)LoadMore data.450fe5a39cefeefb6818.png",
+    "static/media/23)Shopping cart.png": "/FinalProject/static/media/23)Shopping cart.ff8e376ace5e8508702a.png",
+    "static/media/3)Image Slider.png": "/FinalProject/static/media/3)Image Slider.715abb7915b705792311.png",
+    "static/media/24)Expense Tracker.png": "/FinalProject/static/media/24)Expense Tracker.2c39dfba4ec2d79624bd.png",
+    "static/media/11)Github Profile.png": "/FinalProject/static/media/11)Github Profile.3e4d921ffb0e2f4e1003.png",
+    "static/media/1)Accordian.png": "/FinalProject/static/media/1)Accordian.984a65c4aab754059bb7.png",
+    "static/media/18)Scroll Top to Bottom.png": "/FinalProject/static/media/18)Scroll Top to Bottom.dec655e220e7f234841a.png",
+    "static/media/15)UseFetchHook.png": "/FinalProject/static/media/15)UseFetchHook.796ed3f450f53f3b8d86.png",
+    "static/media/8)Scroll Indicator.png": "/FinalProject/static/media/8)Scroll Indicator.da10c436e3fe8865bbff.png",
+    "static/media/20)Weather App.png": "/FinalProject/static/media/20)Weather App.36959ed58dfd9187b36f.png",
+    "static/media/6)QR Code.png": "/FinalProject/static/media/6)QR Code.e83c6a8a05acdd8bc90e.png",
+    "static/media/19)Scroll To Section.png": "/FinalProject/static/media/19)Scroll To Section.0e7896c8a11b361d7885.png",
+    "static/media/10)Custom Popup.png": "/FinalProject/static/media/10)Custom Popup.d877b9543b2d70378089.png",
+    "static/media/12)RandomColor.png": "/FinalProject/static/media/12)RandomColor.ee2e0c1d72f5e93f97cf.png",
+    "static/media/5)Tree View.png": "/FinalProject/static/media/5)Tree View.5c3d73a95e763a85a67a.png",
+    "static/media/25)Todo List.png": "/FinalProject/static/media/25)Todo List.9212af8a9c93299a257d.png",
+    "static/media/17)UseWindowResizeHook.png": "/FinalProject/static/media/17)UseWindowResizeHook.7dab2aeb8e0d9d4702d7.png",
+    "static/media/16)UseOutSideClick.png": "/FinalProject/static/media/16)UseOutSideClick.cc4c4f437489a9604386.png",
+    "static/media/2)star rarting.png": "/FinalProject/static/media/2)star rarting.ef899fd82fb530e23a23.png",
+    "static/media/13)Tic-Tac-Toe.png": "/FinalProject/static/media/13)Tic-Tac-Toe.50c6e646c4926c8257c3.png",
+    "static/media/9)Custom tabs.png": "/FinalProject/static/media/9)Custom tabs.53cd6725e2f12da82a7c.png",
+    "index.html": "/FinalProject/index.html",
+    "main.d40554ba.css.map": "/FinalProject/static/css/main.d40554ba.css.map",
+    "main.d94ad75b.js.map": "/FinalProject/static/js/main.d94ad75b.js.map",
+    "672.61c73d32.chunk.js.map": "/FinalProject/static/js/672.61c73d32.chunk.js.map",
+    "453.39256dc9.chunk.js.map": "/FinalProject/static/js/453.39256dc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d40554ba.css",
+    "static/js/main.d94ad75b.js"
+  ]
+}
